@@ -78,6 +78,7 @@
        и скриншоты работающего чата.
     4. Отследите сокеты с помощью команды netstat. (тоже пришлите скриншот именно сокетов вашего чата). 
             статья в помощь - https://realpython.com/python-sockets/#echo-server
+            
             Посмотреть скринкасты:
             --- Практика NAT. https://disk.yandex.ru/i/xD314SQzMEF2mA
             --- Практика GRE. https://disk.yandex.ru/i/rhl3uDdyZ1VdjA
