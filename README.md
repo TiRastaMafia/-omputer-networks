@@ -121,7 +121,7 @@
         7. Предоставить скриншот таблицы NAT трансляций с Router3.
         8. Предоставить скриншот таблицы маршрутизации с Router0.
   
-  Решение тут _[HW7](https://github.com/TiRastaMafia/Computer_networks/tree/main/HW7)_   
+  Решение тут _[HW8](https://github.com/TiRastaMafia/Computer_networks/tree/main/HW8)_   
   
   
   
